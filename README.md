@@ -1,8 +1,8 @@
 # sqlite
-* this is temporary repository for text sqlite *
+# this is temporary repository for text sqlite *
 
-1. username : 
+* username : 
    * ahmad
 
-2. password :
+* password :
    * 123
