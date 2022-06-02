@@ -1,6 +1,8 @@
 # sqlite
 this is temporary repository for text sqlite
 
-** username : galaxyspace
+1. username : 
+   * ahmad
 
-** password : am8
+2. password :
+   * 123
