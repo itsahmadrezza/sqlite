@@ -1,5 +1,5 @@
 # sqlite
-this is temporary repository for text sqlite
+*this is temporary repository for text sqlite*
 
 1. username : 
    * ahmad
